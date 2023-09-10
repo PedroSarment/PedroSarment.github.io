@@ -1,0 +1,1 @@
+import{_ as a,S as t,Y as s,a5 as _,a6 as o,X as c}from"./index.c80d9c16.js";const d={name:"EmptyPage"},p=e=>(_("data-v-3b6cd8af"),e=e(),o(),e),n=p(()=>c("h1",null,"P\xE1gina Vazia",-1)),r=[n];function i(e,l,u,f,v,h){return t(),s("div",null,r)}var g=a(d,[["render",i],["__scopeId","data-v-3b6cd8af"]]);export{g as default};
